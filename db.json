@@ -1,0 +1,19 @@
+{
+    "cartoes": [
+        {
+            "id": 1,
+            "nomeCartao": "Cartoes black",
+            "nomeBanco": "Taxad",
+            "descricao": "Banco com as menores taxas",
+            "credito": 5000,
+            "ativo": true,
+            "taxa": 0,
+            "juros": 10,
+            "ofertaInicial": 200,
+            "score": "600-800",
+            "numeroDeAplicacoes": 40,
+            "dataCriacao": "28-04-2025",
+            "termos": "As condicoes a seguir sao aplicaveis para este cartao"
+        }
+    ]
+}
